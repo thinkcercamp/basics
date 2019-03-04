@@ -16,3 +16,16 @@ Each Friday at 12pm Central time we will provide a space for you to work through
 
 # Feedback
 Feel free to leave feedback under the Git issues.
+
+* When reviewing this README, select the `Issues` tab
+  <details>
+  <summary>HUH!?</summary>
+  <p>
+
+  ![](./assets/images/issues_ex.png)
+
+  </p>
+  </details>
+* Click `New Issue` (green button top right)
+* If your feedback is relevant to a specific module, please include that in your title (ex: `Module 00 -- edit vocab`)
+* Include your feedback in the comment section and submit (GitHub issues also allows you to include pictures and attachments via drag and drop)
