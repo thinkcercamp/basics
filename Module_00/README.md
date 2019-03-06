@@ -32,16 +32,23 @@
   Markdown  | A language that allows us to mock/create files formatted such as this one without needing a formatting bar (bullet points, tables, bold, italics, etc...)
   Directory | A folder!
   Path | Either `relative` or `absolute` the path shows how to get from one file/folder to another
-  Code Snippet | A little 'blurb' of code.  Feel free to write multipline code snippets in SLACK by surrounding your lines with triple-ticks (to the left of the 1 key) or single ticks for single-line snippets (ex: `my first code snippet`)
-  ```
+  Code Snippet | A little 'blurb' of code.  Feel free to write multi line code snippets in SLACK by surrounding your lines with triple-ticks (to the left of the 1 key) or single ticks for single-line snippets (ex: '\`'my first code snippet'\`' ➡ `my first code snippet` )
+
+  "\```"
   multi
   line
   snippet
-  ```
+  "\```"
+⬇
+```
+multi
+line
+snippet
+```
 
 ## Let's Dig In!
   - When we code, often times we do so using a structure called "Pair Programming".  This allows us as developers (which you all are now!) to both 'drive' and 'navigate' while coding, essentially eliminating typos and providing immediate feedback to your pair.
-  - Go ahead and join my LiveShare session so we can all pair together!
+  - VSCode provides tools like **Live Share** which allows teams to share control of screens and pair program in the same editor (this can be super helpful for remote folks as well!)
 
 ***
 
@@ -63,5 +70,5 @@
 
 ***
 
-Ready to Move On? (Module 01)
+[Ready to Move On? (Module 01)](../Module_01)
 
