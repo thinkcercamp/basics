@@ -1,11 +1,17 @@
 # Setting up your environment
 
-## Installing VSCode
+## Setup
+### Installing VSCode
   - Mac/Apple
       - https://code.visualstudio.com/docs/setup/mac
   - Windows/PC
     - https://code.visualstudio.com/docs/setup/windows
 
+### Installing Terminal Tools
+  - Mac/Apple
+    - https://www.iterm2.com/
+  - Windows/PC
+    - You will most likely need to install Git/Bash tool, please check in with one of your ThinkCERCAMP counselors to help out!
 ***
 
 ## So what the heck are we learning?
