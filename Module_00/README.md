@@ -57,6 +57,7 @@ snippet
   - Terminal allows us to dig into the skeleton of our computers and create files and folders wherever we'd like in a snap!
     - To see where you currently are within your system type `pwd` (print working directory) in your terminal/command line
     - Typing `ls` in your directory will 'list' every file and folder within it
+      - Our computers actually hold a number of hidden files as well, that help with memory and setup of our systems and projects.  To generate a list of all files and directories from your current location, use `ls -a` and notice the additional items that may begin with a `.`
     - `cd` stands for 'change directory' (that's what we call a folder) and can take a `path` to move from one place to another (`./` indicates your current directory, `../` goes up a directory)
     - `touch` allows your create a new file directly from your console!
     - `mv` allows us to rename or move a file or directory
