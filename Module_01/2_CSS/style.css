@@ -1,0 +1,32 @@
+body {
+  background: pink;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  height: 300px;
+  margin: 20px 0;
+}
+
+h4 {
+  text-decoration: underline;
+}
+
+.skills {
+  background: purple;
+  color: white;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin: 30px auto;
+  width: 400px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
