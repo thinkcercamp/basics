@@ -59,7 +59,8 @@ snippet
     - Typing `ls` in your directory will 'list' every file and folder within it
       - Our computers actually hold a number of hidden files as well, that help with memory and setup of our systems and projects.  To generate a list of all files and directories from your current location, use `ls -a` and notice the additional items that may begin with a `.`
     - `cd` stands for 'change directory' (that's what we call a folder) and can take a `path` to move from one place to another (`./` indicates your current directory, `../` goes up a directory)
-    - `touch` allows your create a new file directly from your console!
+    - `mkdir` allows you to create a new folder
+    - `touch` allows your create a new file from your console!
     - `mv` allows us to rename or move a file or directory
     - `rm` allows us to remove a file or directory
     - `history` will show us the recent history of our command line entries
