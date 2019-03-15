@@ -67,6 +67,7 @@ snippet
   - Alrighty, back to it! Using the commands above in your terminal, create a directory called `ThinkCERCAMP` on your Desktop with one file inside called `your_name_00.html`
   - Open the file in your VSCode editor, and begin typing an exclamation mark `!`.  You will see a prompt appear that leads you to an 'Emmett Abreviation', click tab. Walah! (Emmett is a tool built in to your version of VSCode that provides many shortcuts for commonly used code snippets)
   - Personalize the text inside your `<title>` tags to reflect your excitement! (this is the text that appears on your chrome tab when loading a web page!), and write "Hello World!" inside the `<body>` tags (don't worry if this all looks foreign to you, we'll do a much deeper dive into HTML and its properties and elements next session)
+  - Visit this url (https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) to install an extention to allow you to open your file in the browser!
   - You did it! Right click on your html file in the file tree (the directory structure you see to your left) and select "Open in Default Browser"
   -Go back to your HTML file and change the "Hello World" text to say "Hello, my name is ___". Refresh your browser.
 
