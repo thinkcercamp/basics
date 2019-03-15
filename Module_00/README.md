@@ -53,17 +53,21 @@ snippet
 ***
 
 ### Intro to Console and HTML (just a bit!)
+  * Unix (Mac/Linux) and Windows have different versions of many of the same commands. In the following section those commands     will be listed in the following format: Unix/Windows. When only one command is listed, it is the same on both systems.
   - Open VSCode, and select 'New Terminal' in the 'terminal' menu
   - Terminal allows us to dig into the skeleton of our computers and create files and folders wherever we'd like in a snap!
     - To see where you currently are within your system type `pwd` (print working directory) in your terminal/command line
-    - Typing `ls` in your directory will 'list' every file and folder within it
+    - Typing `ls`/`dir` in your directory will 'list' every file and folder within it -
       - Our computers actually hold a number of hidden files as well, that help with memory and setup of our systems and projects.  To generate a list of all files and directories from your current location, use `ls -a` and notice the additional items that may begin with a `.`
     - `cd` stands for 'change directory' (that's what we call a folder) and can take a `path` to move from one place to another (`./` indicates your current directory, `../` goes up a directory)
     - `mkdir` allows you to create a new folder
-    - `touch` allows your create a new file from your console!
-    - `mv` allows us to rename or move a file or directory
-    - `rm` allows us to remove a file or directory
+    - `touch`/`edit` allows your create a new file from your console!
+    - `mv`/`move` allows us to rename or move a file 
+    -  `mv`/`rename` allows us to rename or move a directory
+    - `rm`/`del` allows us to remove a file
+    - `rm -rf`/ `rmdir` allows us to remove a directory
     - `history` will show us the recent history of our command line entries
+    - There is no history command on Windows but you can use the up and down keys to scroll through recent commands
   - Alrighty, back to it! Using the commands above in your terminal, create a directory called `ThinkCERCAMP` on your Desktop with one file inside called `your_name_00.html`
   - Open the file in your VSCode editor, and begin typing an exclamation mark `!`.  You will see a prompt appear that leads you to an 'Emmett Abreviation', click tab. Walah! (Emmett is a tool built in to your version of VSCode that provides many shortcuts for commonly used code snippets)
   - Personalize the text inside your `<title>` tags to reflect your excitement! (this is the text that appears on your chrome tab when loading a web page!), and write "Hello World!" inside the `<body>` tags (don't worry if this all looks foreign to you, we'll do a much deeper dive into HTML and its properties and elements next session)
