@@ -123,7 +123,7 @@ HTML Document Anatomy
 ```
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 ```
-They're not used so much now, and are more a historical artifact taht needs to be included for everything to work as expected `<!DOCTYPE html>` is the shortest string of characters that counts as a valid doctype.
+  They're not used so much now, and are more a historical artifact taht needs to be included for everything to work as expected `<!DOCTYPE html>` is the shortest string of characters that counts as a valid doctype.
 2. `<html></html>`: This element wraps all the content on the entire page, sometimes refered to as the root element.
 3. `<head></head>`: This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers. This includes things like keywords and a page descript that you want to appear in search results. CSS to style the content, which we will learn more about in this module :smile:.
 4. `<meta charset="utf-84">`: This element sets the character set your document should use to UTF-8, which includes most characters from the majority of written languages. There isn't a good reason not to set this, it can help avoid problems down the road.
