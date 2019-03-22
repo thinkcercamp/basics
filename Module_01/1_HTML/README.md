@@ -40,7 +40,9 @@ You can put elements inside of other elements, this is called **nesting**. If we
 <p>My cat is <strong>very</strong> grumpy</p>
 ```
 
-Make sure that your elements are properly nested: in the example aboxle we opened the `p` element first, then the `strong` element. Therefore we need to close the `strong` element before the `p` element before the `p`.
+Make sure that your elements are properly nested: in the example box we opened
+the `p` element first, then the `strong` element. Therefore we need to close
+the `strong` element before the `p` element.
 
 ### Bad :-1:
 ```
