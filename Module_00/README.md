@@ -76,6 +76,9 @@ snippet
   -Go back to your HTML file and change the "Hello World" text to say "Hello, my name is ___". Refresh your browser.
 
 ***
+### Extension Activities:
+  - [Learn More Bash and Scripting Tools](https://egghead.io/courses/automate-daily-development-tasks-with-bash)
+***
 
 [Ready to Move On? (Module 01)](../Module_01)
 
