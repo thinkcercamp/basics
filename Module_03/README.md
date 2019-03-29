@@ -43,3 +43,23 @@ p {
 ```
 
 The browser will parse the HTML and create the DOM, then parse the CSS and apply it to the DOM. Since we're only applying style properties to the `p` selector. That is the only change we will see.
+
+
+
+### Learn Javscript
+
+Below are two resources that are good for getting started with Javascript. The content overlaps, but it wouldn't hurt to do both. The second is a little more in depth, but might be easier to work through if you 
+
+We'll have a tutorial showing you how to use some of this knowledge on your portfolio soon, but this is a good introduction to the basics of Javascript that will prepare you tuse it in the browser.
+
+**Interactive Course**
+
+Introduciton to Javascript Section 1-9
+
+<https://www.codecademy.com/learn/introduction-to-javascript>
+
+**Online Book**
+
+Eloquen Javascript Ch. 1-5
+
+<https://eloquentjavascript.net/>
