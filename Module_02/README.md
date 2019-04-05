@@ -4,6 +4,8 @@
 
 Before learning about Git, you'll need ot install some dependencies.
 
+**<u>Mac Users Follow These Steps</u>**
+
 **Install Xcode**
 
 1) Please, please, please do this before the lesson. Everything else takes under a minute, but this step takes awhile to run.
@@ -61,6 +63,16 @@ git --version
 ```
 git version 2.17.0
 ```
+
+
+
+**<u>Windows Users Follow These Steps</u>**
+
+**Install Git**
+
+Download Git for Windows and run the installer
+
+<https://gitforwindows.org/>
 
 
 
