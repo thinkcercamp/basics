@@ -162,6 +162,8 @@ git status
 
 You'll noticed the color of the file name has changed. By running `git add` you've staged the files for commit. This means when we make a commit, those staged files will be included in the snapshot represented by that commit. Now we'll commit them and add the current snapshot of the directory to our git history. 
 
+Note: If you want to add every file in your current directory you can run `git add .`
+
 6) Run:
 
 ```bash
@@ -201,7 +203,7 @@ Now we'll add a new branch to our Git repo. Branches represent different Git his
 1) Run
 
 ```bash
-git branch new_branch
+git checkout -b new_branch
 ```
 
 2) Make some changes to your project
@@ -209,14 +211,6 @@ git branch new_branch
 3) Stage and commit those changes.
 
 4) Now run
-
-```bash
-git log --graph --simplify-by-decoration --all
-```
-
-You'll see a visual structure that shows where your new branch branches off of master and has one commit on the new branch.
-
-5) Run
 
 ```bash
 git log
