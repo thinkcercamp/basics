@@ -162,6 +162,8 @@ git status
 
 You'll noticed the color of the file name has changed. By running `git add` you've staged the files for commit. This means when we make a commit, those staged files will be included in the snapshot represented by that commit. Now we'll commit them and add the current snapshot of the directory to our git history. 
 
+Note: If you want to add every file in your current directory you can run `git add .`
+
 6) Run:
 
 ```bash
