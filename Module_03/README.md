@@ -54,7 +54,7 @@ We'll have a tutorial showing you how to use some of this knowledge on your port
 
 **Interactive Course**
 
-Introduciton to Javascript Section 1-9
+Introduciton to Javascript Section 1-9 (Introduction - Classes)
 
 <https://www.codecademy.com/learn/introduction-to-javascript>
 
